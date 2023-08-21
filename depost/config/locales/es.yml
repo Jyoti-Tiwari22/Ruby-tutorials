@@ -1,0 +1,43 @@
+es:
+  layouts:
+    application:
+      title: "The Bookshelf"
+      home: "Inicio"
+      products: "Productos"
+      news: "Noticias"
+      contact: "Contacto"
+
+  store:
+    index:
+      title_html: "Su Cat&aacute;logo de Pragmatic"
+    product:
+      add_html: "A&ntilde;adir al Carrito"
+
+  carts:
+    cart:
+      title: "Carrito de la Compra"
+      empty: "Vaciar Carrito"
+      checkout: "Comprar"
+
+  orders:
+    new:
+      legend: "Por favor, ingresa tus detalles"
+    form:
+      name: "Nombre"
+      address_html: "Dirección"
+      email: "Correo electrónico"
+      pay_type: "Pagar con"
+      pay_prompt_html: "Selecciona un método de pago"
+      submit: "Realizar pedido"
+      pay_types:
+        "Check": "Cheque"
+        "Credit card": "Tarjeta de crédito"
+        "Purchase order": "Orden de compra"
+    check:
+      routing_number: "Número de ruta"
+      account_number: "Número de cuenta"
+    cc:
+      cc_number: "Número de tarjeta"
+      expiration_date: "Fecha de vencimiento"
+    po:
+      po_number: "Número de orden de compra"
