@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+​depot>​​ ​​bin/rails​​ ​​console​
+Loading development environment.
+​>>​​ ​​User.create(name:​​ ​​'dave'​​,​​ ​​password:​​ ​​'secret'​​,​​ ​​password_confirmation:​​ ​​'secret')
