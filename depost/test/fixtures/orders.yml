@@ -6,6 +6,19 @@ one:
   email: jyoti@example.org
   pay_type: Check
 
+another_one:
+  name: jyoti tiwari
+  address: 123 ghg dev
+  email: jt744577@gmail.com
+  pay_type: check
+  created_at: <%= 2.days.ago %>
+
+other_customer:
+  name: Chris Jones
+  address: 123 ghg dev
+  email: jt744577@gmail.com
+  pay_type: check
+
 two:
   name: MyString
   address: MyText
